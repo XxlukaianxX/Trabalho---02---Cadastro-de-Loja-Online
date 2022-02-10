@@ -1,7 +1,3 @@
-#Aluno: Lucas José Sousa Lima
-#Matrícula: 508370
-
-
 #Funções#
 
 #Informações iniciais para o funcionamento do programa
